@@ -10,4 +10,4 @@ This is a budget tracker with offline functionality. When the user comes back on
 
 ## Screenshot
 
-[Budget Tracker](budget-tracker.png)
+![Budget Tracker](budget-tracker.png)
